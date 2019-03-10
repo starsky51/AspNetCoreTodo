@@ -34,3 +34,5 @@
 /home/starsky51/Projects/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.1/AspNetCoreTodo.dll
 /home/starsky51/Projects/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.1/AspNetCoreTodo.pdb
 /home/starsky51/Projects/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.1/AspNetCoreTodo.csproj.CopyComplete
+/home/starsky51/Projects/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.1/Razor/Views/Todo/Index.g.cshtml.cs
+/home/starsky51/Projects/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/netcoreapp2.1/Razor/Views/Todo/AddItemPartial.g.cshtml.cs
